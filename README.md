@@ -11,7 +11,7 @@ This is a project mentored by Giuliana Silva Bezerra on her Course from https://
 - Postgres
  
 
-## Objectives of this project 🦾
+## Goals of this project 🦾
 - Authentication and Authorization with API tokens and Bouncer
 - Make queries and Relationships with Lucid ORM and Query Builders
 - Implement APIs using Controllers, Factories, Models, Migrations, Middlewares, Validators and Paging
